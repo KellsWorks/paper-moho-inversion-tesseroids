@@ -1,0 +1,8 @@
+# GMT common arguments shelf
+-B5WSen:.obs_plus_all_extra.XYHU T0.5:
+-JM15.5
+-R/-82/-34/-40.5/13
+-Xc
+-Yc
+-jM15.5
+EOF

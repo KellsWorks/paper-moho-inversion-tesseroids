@@ -1,0 +1,16 @@
+name: moho
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=2.7
+  - pip
+  - future
+  - numpy
+  - scipy
+  - matplotlib
+  - basemap
+  - numba
+  - jupyter
+  - seaborn
+  - fatiando==0.5
